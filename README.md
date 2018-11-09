@@ -4,7 +4,10 @@ For this project, you'll need the following hardware:
  
  * A raspberry pi 
  * 2 arduino's with wireless capabilities. We've used 2 NodeMCU ESP8266's
- * The hardware as defined in the fritzing diagrams.
+ * A 433MHz transmitter and receiver
+ * A basic button, some resitors and leds for the lights 
+ 
+The hardware setup can be seen in the documentation and the fritzing diagrams.
  
  
 In order to run this project, be sure to start the MQTT broker first. 
